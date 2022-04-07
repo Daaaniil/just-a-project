@@ -1,0 +1,145 @@
+
+@media (max-width:1000px)
+{
+
+   .p {
+       display: flex;
+       flex-direction: column;
+       align-items: center;
+   }
+
+   .flex-2 {
+       display: flex;
+       align-items: center;
+   }
+
+   .obj-4 {
+       text-align: center;
+   }
+   
+   .flexx {
+       gap: 10px;
+   }
+
+   .allwork {
+       display: flex;
+       align-items: center;
+       max-width: 720px;
+       flex-direction: column;
+   }
+
+   .bkcool {
+       max-width: 1000px;
+   }
+
+   .phot {
+       max-width: 300px;
+   }
+
+   .elevens {
+       font-size: 11px;
+   }
+
+   footer img {
+       max-width: 900px;
+   }
+
+   .lasttt {
+       justify-content: center;
+       align-items: center;
+   }
+
+   .hugept {
+       max-width: 10px;
+   }
+
+   .slidebarwork {
+       margin-right: auto;
+       margin-left: auto;
+       display: flex;
+       justify-content: center;
+   }
+
+   .findproperties,.moneycase {
+       display: flex;
+       justify-content: center;
+       align-items: center;
+   }
+
+   .witout {
+       display: flex;
+       justify-content: space-around;
+      
+   }
+}
+
+
+@media (max-width:720px)
+ {
+
+    .p {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .flex-2 {
+        display: flex;
+        align-items: center;
+    }
+
+    .obj-4 {
+        text-align: center;
+    }
+    
+    .flexx {
+        gap: 10px;
+    }
+
+    .allwork {
+        display: flex;
+        align-items: center;
+        max-width: 720px;
+        flex-direction: column;
+    }
+
+    .bkcool {
+        max-width: 720px;
+    }
+
+    .phot {
+        max-width: 200px;
+    }
+
+    .elevens {
+        font-size: 11px;
+    }
+
+    footer img {
+        max-width: 680px;
+    }
+
+    .lasttt {
+        justify-content: center;
+        align-items: center;
+    }
+
+    .hugept {
+        max-width: 10px;
+    }
+
+    .slidebarwork {
+        margin-right: auto;
+        margin-left: auto;
+        display: flex;
+        justify-content: center;
+    }
+
+    .findproperties,.moneycase {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+}
+
